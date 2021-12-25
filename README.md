@@ -10,13 +10,20 @@ Aiming to generate investing insight by applying sentiment analysis on financial
 
 Libraries used in this code : **Beautiful-Soup and NLTK (to add sentiments to the lexicon)
 
+### Data Overview after Extracting News Headlines
+
+<img src="https://github.com/Ssanyachetwani/Sentiment-Analysis-for-Financial-News/blob/main/rim/rim1.png" alt="rim1" width="600"/>
+
 ### NLTK : to add sentiments to the lexicon ; predict sentiments from news
 
 Plotting TIME SERIES of sentiments for stock : 
 
-<img src="https://github.com/Ssanyachetwani/NLP-for-trending-topics-in-ML-research/blob/main/rim/rim1.png" alt="rim1" width="500"/>
+<img src="https://github.com/Ssanyachetwani/Sentiment-Analysis-for-Financial-News/blob/main/rim/rim2.png" alt="rim2" width="500"/>
 
-### Visualizing single day :
+### Visualization for a single day :
 
-<img src="https://github.com/Ssanyachetwani/NLP-for-trending-topics-in-ML-research/blob/main/rim/rim2.png" alt="rim2" width="500"/>
+Positive, negative and neutral scores for a single day of trading and a single stock
+
+<img src="https://github.com/Ssanyachetwani/Sentiment-Analysis-for-Financial-News/blob/main/rim/rim3.png" alt="rim3" width="500"/>
+
 
