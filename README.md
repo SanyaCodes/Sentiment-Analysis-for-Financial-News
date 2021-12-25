@@ -8,7 +8,7 @@ Aiming to generate investing insight by applying sentiment analysis on financial
 
 *The technique used here to handle large amounts of data can be applied to other text datasets as well.
 
-Libraries used in this code : **Beautiful-Soup and NLTK (to add sentiments to the lexicon)
+Libraries used in this code : Beautiful-Soup and NLTK (to add sentiments to the lexicon)
 
 ### Data Overview after Extracting News Headlines
 
